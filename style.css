@@ -120,7 +120,7 @@ nav span{
   width: 630px;
   font-family: Georgia;
   font-weight: bold;
-  text-align: left;
+  text-align: center;
   font-size: 40px;
   color: white;
   display: flex;
@@ -136,10 +136,9 @@ nav span{
   text-align: center;
   font-size: 30px;
   color: white;
-  display: flex;
-  flex-direction: column;
   justify-content: center;
   height: 300px;
+  width: 300px;
 }
 
 .earth.image{
@@ -149,10 +148,9 @@ nav span{
   text-align: center;
   font-size: 30px;
   color: white;
-  display: flex;
-  flex-direction: column;
   justify-content: center;
   height: 300px;
+  width: 300px;
 }
 
 .cats.image{
@@ -164,7 +162,7 @@ nav span{
   font-size: 30px;
   color: white;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   height: 300px;
 }
